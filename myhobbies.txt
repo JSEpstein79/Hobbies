@@ -1,5 +1,5 @@
-reading: tranformational
+reading: transformational
 traveling: wonderful
 cooking: fun
-writing: 
+writing: creative
 music: relaxing
